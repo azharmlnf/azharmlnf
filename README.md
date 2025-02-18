@@ -14,14 +14,14 @@
 - 🎓 Informatics Engineering Student  
 - 💻 Passionate about **Web Development & Mobile App Development**  
 - 🔥 Loves working with **Laravel, PHP, MySQL, and Flutter**  
-- 📚 Currently learning **DevOps & Cloud Computing**  
+- 📚 Currently learning **DevOps & API**  
 - 📬 Reach me on **[LinkedIn](https://www.linkedin.com/in/#/)**  
 
 ---
 
 ### ⚡ **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,flutter,dart,html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,flutter,dart,html,css,git,github" />
 </p>
 
 ---
