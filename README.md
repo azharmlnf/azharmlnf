@@ -9,6 +9,9 @@
 </p>
 
 ---
+<img src="https://raw.githubusercontent.com/azharmlnf/azharmlnf/github banner.png" width="600" />
+
+---
 
 ### 🚀 **About Me**
 - 🎓 Informatics Engineering Student  
