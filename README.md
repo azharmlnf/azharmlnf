@@ -9,7 +9,10 @@
 </p>
 
 ---
-<img src="https://raw.githubusercontent.com/azharmlnf/azharmlnf/github banner.png" width="600" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/azharmlnf/azharmlnf/main/banner.png" width="600" />
+</div>
+
 
 ---
 
