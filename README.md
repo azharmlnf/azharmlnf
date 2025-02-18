@@ -10,7 +10,7 @@
 
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/azharmlnf/azharmlnf/main/banner.png" width="600" />
+ <img src="main/banner.png" width="1000" />
 </div>
 
 
@@ -27,8 +27,17 @@
 
 ### ⚡ **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,flutter,dart,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
+  <img src="https://skillicons.dev/icons?i=dart" title="Dart" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
 </p>
+
 
 ---
 
