@@ -1,4 +1,4 @@
-# GitHub Action untuk menghasilkan animasi ular dari kontribusi GitHub
+# GitHub Action untuk membuat animasi ular kontribusi
 name: Generate Snake
 
 on:
