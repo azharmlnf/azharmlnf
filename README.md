@@ -1,11 +1,11 @@
-<h1 align="center">Hi there! I'm Azhar Maulana Ferdiansyah 👋</h1>
+<h1 align="center">Hi there! I'm Azhar👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=azharmlnf&label=Profile+Views&color=blue&style=flat-square" alt="profile views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=35D5ED&center=true&vCenter=true&width=600&height=40&lines=Welcome+to+my+GitHub!;I'm+a+Tech+Enthusiast;Laravel+%7C+PHP+%7C+MySQL+%7C+Flutter+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=35D5ED&center=true&vCenter=true&width=600&height=40&lines=Welcome+to+my+GitHub!;I'm+a+Tech+Enthusiast;Laravel+%7C+PHP+%7C+Flutter;I'm+a+Apps+Developer" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 - 🎓 Informatics Engineering Student  
 - 💻 Passionate about **Web Development & Mobile App Development**  
 - 🔥 Loves working with **Laravel, PHP, MySQL, and Flutter**  
-- 📚 Currently learning **DevOps & API**  
+- 📚 Currently learning **Apps Development & API**  
 - 📬 Reach me on **[LinkedIn](https://www.linkedin.com/in/#/)**  
 
 ---
@@ -75,7 +75,7 @@
 
 ### 📫 **Let's Connect!**
 <p align="center">
-  <a href="https://www.linkedin.com/in/#/">
+  <a href="http://www.linkedin.com/in/azhar-maulana-ferdiansyah">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:azharmaulanadeveloper@gmail.com">
