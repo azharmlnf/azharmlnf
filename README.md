@@ -28,6 +28,7 @@
 ### ⚡ **Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" />
+  <img src="https://skillicons.dev/icons?i=Codeigniter" title="Codeigniter" />
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
