@@ -19,7 +19,7 @@
 ### 🚀 **About Me**
 - 🎓 Informatics Engineering Student  
 - 💻 Passionate about **Web Development & Mobile App Development**  
-- 🔥 Loves working with **Laravel, PHP, MySQL, and Flutter**  
+- 🔥 Loves working with **Laravel and Flutter**  
 - 📚 Currently learning **Apps Development & API**  
 - 📬 Reach me on **[LinkedIn](https://www.linkedin.com/in/#/)**  
 
@@ -29,12 +29,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" />
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
   <img src="https://skillicons.dev/icons?i=dart" title="Dart" />
-  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
-  <img src="https://skillicons.dev/icons?i=git" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
 </p>
 
