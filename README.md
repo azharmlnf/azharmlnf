@@ -20,7 +20,7 @@
 - 🎓 Informatics Engineering Student  
 - 💻 Passionate about **Web Development & Mobile App Development**  
 - 🔥 Loves working with **Laravel and Flutter**  
-- 📚 Currently learning **Apps Development & API**  
+- 📚 Currently learning **Apps Development, API & Data Mining **  
 - 📬 Reach me on **[LinkedIn](https://www.linkedin.com/in/#/)**  
 
 ---
