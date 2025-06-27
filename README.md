@@ -40,7 +40,7 @@
 ### 📊 **GitHub Stats**
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=azharmlnf&show_icons=true&theme=tokyonight" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=azharmlnf&theme=tokyonight>
+  <img width="47%" src="https://streak-stats.demolab.com/?user=azharmlnf&theme=tokyonight" />
 </p>
 
 ---
@@ -49,6 +49,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azharmlnf&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
