@@ -8,10 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=35D5ED&center=true&vCenter=true&width=600&height=40&lines=Welcome+to+my+GitHub!;I'm+a+Tech+Enthusiast;Laravel+%7C+PHP+%7C+Flutter;I'm+a+Apps+Developer" />
 </p>
 
----
-<div align="center">
- <img src="main/banner.png" width="1000" />
-</div>
+
 
 
 ---
@@ -31,7 +28,6 @@
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
   <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
   <img src="https://skillicons.dev/icons?i=dart" title="Dart" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
 </p>
 
 
@@ -40,7 +36,7 @@
 ### 📊 **GitHub Stats**
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=azharmlnf&show_icons=true&theme=tokyonight" />
-  <img width="47%" src="https://streak-stats.demolab.com/?user=azharmlnf&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-streak-stats.demolab.com?user=azharmlnf&theme=tokyonight" />
 </p>
 
 ---
@@ -49,6 +45,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azharmlnf&layout=compact&theme=tokyonight" />
 </p>
+
 
 
 ---
@@ -78,7 +75,8 @@
   <a href="mailto:azharmaulanadeveloper@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/azharmlnf">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://instagram.com/plinplanlab">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </p>
